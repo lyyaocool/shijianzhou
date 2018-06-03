@@ -1,4 +1,4 @@
 # shijianzhou
-这位是我第一次使用github做项目
-此项目用来提交作业
-哈哈哈哈
+This is my first time to use GitHub to do project. 
+This project is used to submit homework. 
+Ha ha ha.
